@@ -1,7 +1,7 @@
 <img alt="Bower" src="https://img.shields.io/bower/l/MI">
 # Agenda de contatos
 Simples agenda de contatos para sistemas Windows, Linux ou Mac
-
+<br />
 ![Print da Tela](https://github.com/tiagopagioro/agenda/blob/main/img/agenda.png)
 ## Autor
 Tiago Pagioro Faim
